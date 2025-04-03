@@ -1,1 +1,6 @@
 install.packages(c("readxl", "dplyr", "lubridate", "ggplot2", "ggridges"))
+install.packages("tidyverse")
+install.packages("rmarkdown")
+install.packages("httr")
+install.packages("shinydashboard")
+install.packages("leaflet")
